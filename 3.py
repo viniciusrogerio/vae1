@@ -1,4 +1,4 @@
-# ->>> QUESTÃO FEITA INCORRETAMENTE
+# ->>> QUESTÃO FEITA INCORRETAMENTE. NÃO ESTÁ EM CONFORMIDADE COM O ENUNCIADO.
 
 def imprime_multiplos(n,i,j):
     if i <=0 or j<=0:
