@@ -1,6 +1,8 @@
+# ->>> QUESTÃO FEITA INCORRETAMENTE
+
 def imprime_multiplos(n,i,j):
     if i <=0 or j<=0:
-        return 'i e j inválidos'
+        return 'i e j inválidos!'
     else:
         multiplos_ambos=[]
         multiplos_i=[]
@@ -19,4 +21,4 @@ def imprime_multiplos(n,i,j):
                 multiplos_final.append(w)
         multiplos_final.sort()
         print(multiplos_final)
-print(imprime_multiplos(2,4,-3))
+        
